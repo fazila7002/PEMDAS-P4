@@ -16,3 +16,13 @@ else
 return "gagal";
 
 }
+
+int main(){
+    float nilBI,nilMT,rerata;
+    string status;
+    cout <<"Masukkan nilai Bahasa Inggris = ";
+    cin >> nilBI;
+    cout <<"masukkan nilai matematika = ";
+    cin >> nilMT;
+
+}
